@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @mmacalla
-- 👀 I’m interested in data analysis and using data for social change
-- 🌱 I’m currently learning data science and machine learning with Python
-- 💞️ I’ll be looking to collaborate on projects in the future!
-- 📫 How to reach me: maxmacalla@protonmail.com
+
